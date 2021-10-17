@@ -1,0 +1,68 @@
+What is in the dataset? - Document compiled by David Deltz
+
+
+NFPBCA2021 - global footprint network national footprint and biocapacity accounts 2021
+
+NOAACD2019R - NOAA Daily weather data all stations across world
+
+OECD-AEA - air emission accounts OECD estimates
+OHI2019 - ocean health index
+SAAGRST2019 - Agriculture statistics of saudi arabia 
+SCNA3810009601 - canada physical flow account for energy use
+SDGIX2019 - sustainable development goal index 2020
+UBOSENS2020 - Ministry of water and environment uganda
+UNENVDB2018 - Global environment statistics
+UNENVDB2021 - Global environment statistics
+UNEPWESD2020 - World Environment situation database
+UNEPWESD2021 - World Environment situation database
+UNGHDB2020 - Greenhouse gas database
+USEPATDW2019 - Texas drinking water performance
+WATER_TREAT_2017 - wastewater treatment (% population connected)
+WBADI2019 - Africa development indicators
+WBCC2020 - World Bank Climate Change 
+WBMDG2017 - Millennium Development Goals 
+WBWDI2019Jan - world development indicators
+WCCD2019 - world council city data (data on cities and their residents)
+WCS2016 - wildlife crime scorecard
+WRISGWL2019 - Groundwater level and rain fall in india
+aulvzxc - district wise rainfall data for india
+dlhmtzf - europe monitoring of CO2 emissions from passenger cars 2019
+env_ac_aeint_r2-20190204 - europe air emissions intesities by NACE rev.2 activity
+env_ac_aibri_r2-20190204 - europe air emissions accounts totals briding to emission invetnory totals
+env_ac_aina_r1 - europe air emissions accounts by industry and households
+env_ac_aina_r2-20190204 - europe air emissions accounts by NACE Rev. 2
+env_ac_egss1-20180531 - europe employment in the environmental goods and services sector
+env_ac_io10-20190312 - europe emissions of greenhouse gases and air pollutants from final use of CPA08 products
+env_ac_taxind2 - europe environmental taxes by economic activity
+env_air_emis_ind - air pollutants by source sector aggregated for indicator sets
+env_air_gge-20200609 europe greenhouse gas emissions by source sector
+env_waselv - europe end of life vehicles detailed data
+env_waselvt - europe end of life vehicles reuse, recycling and recovery totals
+env_wasmun-20180713 - europe municipal waste by operations in kg per capita
+env_wat_cat - europe water use by supply category and economical sector
+env_wat_res-20160216 - europe renewable freshwater resources
+env_wat_use-20180409 - europe water made available for use
+env_ww_con-20180706 - europe population connected to wastewater treatement plants in thousands
+env_ww_genv-20190806 - Europe generation and sicharge of wastewater in volume
+env_ww_spd-20180409 - europe Sewage sludge production and disposal kilograms per capita
+itsunlf - Historical Emissions and Emissions cut in largest economies in metric tons of CO2
+iwqebt -  Europe monitoring of CO2 emissions from passenger cars 2019 (new)
+mujuywd - Europe monitoring of CO2 emissions from passenger cars 2020 (new)
+nnmayu - Europe monitoring of CO2 emissions from passenger cars 2020 (new)
+nrg_ind_ured - europe use of renewables for electricity units are in gigawatts
+nrg_ind_urhcd - europe use of renewables for heating and cooling
+obwhfrb - europe monitoring of CO2 emission from passenger cars
+sdg_12_30 - europe average CO2 emissions per km from new passenger cars
+t2020_30 - europe greenhouse gas emissions base year 1990
+t2020_35 - greenhouse gas emissions in non-ETS sector in europe
+t2020_rd210-20160616 - Water productivity
+t2020_rd220 - water exploitation index
+t2020_rd300-20180214 - Greenhouse gas emissions per capita in europe
+t2020_rk300-20200214 - Pollutant emissions from  transport in europe
+t2020_rk330 - europe average carbon dioxide emissions per km from new passenger cars
+t2020_rt300 - Annual energy taxes for the european union in million euro
+t2020_rt310 - Annual Energy taxes by industry and countries in percent
+t2020_rt320 - Percentage of total revenues from taxes and social contributions for countries in the european union
+ten00002 - Fresh Surface and GroundWater in Million Cubic meters by country
+ten00003 - Fresh Surface and GroundWater in Cubic meters per inhabitant by country
+zszhgxg - Shark Attack Data by Region
